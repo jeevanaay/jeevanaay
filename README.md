@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate with strong academic performance (9.5 CGPA) and hands-on experience building data-driven machine learning solutions on large datasets. Experienced in implementing end-to-end ML pipelines and actively seeking SDE / Data Science internship roles that require strong problem-solving, algorithms, and applied machine learning skills.
+Computer Science undergraduate with strong academic performance and hands-on experience building data-driven machine learning solutions on large datasets. Experienced in implementing end-to-end ML pipelines and actively seeking SDE / Data Science internship roles that require strong problem-solving, algorithms, and applied machine learning skills.
 
 
 ## 🌐 Socials:
