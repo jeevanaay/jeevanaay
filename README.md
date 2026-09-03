@@ -1,7 +1,7 @@
 # 💫 About Me:
 IIT Madras BS Degree Programme student interested in software development, web applications, and data-driven technologies.  
 Building projects with Python, Flask, SQL, and modern web technologies while strengthening my problem-solving and development skills.  
-Currently exploring backend development, databases, AI/ML, cloud technologies, and cybersecurity.
+Currently exploring backend development, databases, AI/ML, and cloud technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanaay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevanaay@gmail.com)
